@@ -4,6 +4,7 @@
     border: 0;
     box-sizing: border-box;
     font-family: 'Nunito', sans-serif;
+    
 }
 
 body {
@@ -76,8 +77,13 @@ body {
     align-items: center;
 }
 
+.icon-login img {
+    min-width: 260px;
+    width: 260px;
+}
+
 .icon-login p {
-    color: #8080ba;
+    color:  #529dbd;
     font-size: 36px;
     font-weight: 800;
     margin: 12px 0px 12px 0px;
@@ -119,7 +125,7 @@ body {
     cursor: pointer;
     height: 44px;
     width: 100%;
-    color: #8080ba;
+    color:  #529dbd;
     font-size: medium;
     font-weight: 800;
 }
